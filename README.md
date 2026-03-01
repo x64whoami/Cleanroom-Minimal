@@ -3,12 +3,8 @@
 ## Features
 ### Implemented
 
-- 1.12.2 on Java 21
-- *Latest* LWJGL3
 - A working *mod development template/kit*
 - Patches for loading incompatible mods
-- Built-in Mixin w/ handy bootstrapping
-- Develop using Scala 3 + Kotlin 2
 - Compatibility to 99% of Forge mods
 
 ### Planning
@@ -23,12 +19,6 @@
 - Minecraft Coder Pack
 - CleanroomLoader (Continuation + Revamp of ForgeModLoader)
 - Cleanroom Minecraft (Continuation + Revamp of MinecraftForge)
-- Customized Mixin
-- Bytecode Patcher (Coming Soon) \[Inspired by [Bansoukou](https://github.com/LoliKingdom/Bansoukou) and [Bytecode Patcher](https://github.com/jbredwards/Bytecode-Patcher)]
-- [Fugue](https://www.curseforge.com/minecraft/mc-mods/fugue), a mod patches many incompatibilities.
-- Javassist
-- [Scalar](https://www.curseforge.com/minecraft/mc-mods/scalar-legacy), a Scala provider. We made Scala libraries become a standalone mod so it can be updated.
-- [Forgelin-Continuous](https://www.curseforge.com/minecraft/mc-mods/forgelin-continuous) and [LibrarianLib-Continuous](https://www.curseforge.com/minecraft/mc-mods/librarianlib-continuous)
 
 ## Download & Installation:
 
